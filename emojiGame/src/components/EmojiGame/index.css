@@ -1,0 +1,26 @@
+.bg-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to right bottom, #9796f0, #fbc7d4);
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.second-container {
+  height: 100%;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.emojis-list-container {
+  padding: 20px;
+  width: 75%;
+  margin-top: 25px;
+  /* border: 1px solid black; */
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

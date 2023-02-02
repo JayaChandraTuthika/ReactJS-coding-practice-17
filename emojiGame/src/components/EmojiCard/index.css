@@ -1,0 +1,22 @@
+* {
+  /* border: 1px solid blue; */
+  margin: 0;
+  padding: 0;
+}
+.emoji-card {
+  padding: 0;
+  border: 1px solid #ffffff30;
+  background-color: #ffffff33;
+  border-radius: 25px;
+  margin: 10px;
+}
+.emoji-card-btn {
+  padding: 32px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.emoji-card-img {
+  height: 70px;
+}

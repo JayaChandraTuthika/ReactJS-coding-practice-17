@@ -1,0 +1,32 @@
+* {
+  font-family: 'roboto';
+  margin: 0;
+}
+.navbar {
+  padding: 15px;
+  background-color: rgba(255, 254, 254, 0.164);
+  display: flex;
+  align-items: center;
+}
+.navbar-logo {
+  height: 45px;
+  margin-left: 6%;
+}
+.navbar-logo-text {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  margin-left: 9px;
+}
+.navbar-score-container {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: 10%;
+}
+.navbar-score-text {
+  color: white;
+  font-size: 25px;
+  font-weight: 600;
+  margin: 15px;
+}
