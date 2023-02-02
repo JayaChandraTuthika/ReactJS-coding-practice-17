@@ -1,0 +1,26 @@
+.list-item {
+  padding: 0;
+  width: 100%;
+  display: flex;
+}
+.grid-value {
+  font-size: 16px;
+  color: #475569;
+  /* font-weight: 600; */
+  padding: 8px 25px;
+  width: 30%;
+  margin: 0;
+  text-align: left;
+  border-bottom: 1px solid #d7dfe9;
+}
+.delete-history-btn {
+  margin: 0;
+  padding: 5px;
+  width: 10%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.delete-icon {
+  height: 22px;
+}
